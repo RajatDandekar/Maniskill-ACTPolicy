@@ -1,6 +1,0 @@
-[submodule "ManiSkill"]
-	path = ManiSkill
-	url = https://github.com/haosulab/ManiSkill.git
-[submodule "maniskill_runpod"]
-	path = maniskill_runpod
-	url = https://github.com/OmuNaman/maniskill_runpod.git
